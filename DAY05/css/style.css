@@ -1,0 +1,56 @@
+/*
+.no-js body {
+    background:red;
+    color:#fff;
+}
+*/
+
+
+body {
+  margin: 3rem 3.5rem;
+  font-weight: 200;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  font-weight: inherit;
+}
+
+ul {
+  padding-left: 1em;
+}
+
+li {
+  margin-bottom: 0.3em;
+}
+
+.show-hide-button {
+	margin-bottom: 20px;
+}
+
+/*card 상태 클래스 */
+/* SMACSS BEM  */
+.is-hidden {
+    display: none;
+}
+.is-visible {
+    display:block;
+}
+
+.is-transparent {
+    opacity:0;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
